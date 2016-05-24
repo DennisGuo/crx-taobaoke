@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+  font-size: 100%;
+  max-width: 400px;
+}
+#status {
+
+  /* avoid an excessively wide status text */
+  white-space: pre;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  
+}
+.alert {
+  color: #f33;
+}
+.info{
+  color: #3f3;
+}
+.dpn{
+  display: none;
+}

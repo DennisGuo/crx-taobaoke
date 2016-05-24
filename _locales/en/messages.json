@@ -1,0 +1,22 @@
+{
+	"appName":{
+		"message":"商品信息抓取",
+		"description":"扩展应用名称"
+	},
+	"appDesc":{
+		"message":"此扩展用于解析商品信息，包括淘宝客商品，京东联盟商品等",
+		"description":"扩展应用描述"
+	},
+	"appTitle":{
+		"message":"点击获取商品信息",
+		"description":"扩展应用标题"
+	},
+	"statusAlert":{
+		"message":"不能解析此页面",
+		"description":"不能解析此页面"
+	},
+	"statusInfo":{
+		"message":"此页面可以解析",
+		"description":"此页面可以解析"
+	}
+}
